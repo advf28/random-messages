@@ -14,7 +14,15 @@
   "author": "Andres Vides Fernandez <andresvf65@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advf28/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/advf28/random-messages/issues"
+  },
+  "homepage": "https://github.com/advf28/random-messages#readme"
 }
